@@ -67,3 +67,5 @@ Lastly, modify the value of test_num to randomly select a testing set of a given
 ```py 
 test_num = 20
 ```
+
+*Author:* Eitan Flor
